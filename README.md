@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Physics-informed neural closures for global barotropic tides.</b><br>
-  Differentiable tide equations, sparse LU solves, implicit adjoints, learnable dissipation, and reproducible experiments.
+  Differentiable tide equations, sparse LU solves, implicit adjoints, learnable dissipation, and experiments.
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 | Author | Affiliation |
 |---|---|
-| Boris Kriuk | HKUST |
+| Boris Kriuk | HKUST Department of Information Systems, Business Statistics and Operations Management, Hong Kong |
 | Tanisha K. | Trent University, Canada |
 
 ---
