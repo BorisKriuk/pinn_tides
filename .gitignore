@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/tide.py
+!/experiments.py
+!/README.md
+!/requirements.txt
+!/figs/
+.DS_Store
+__pycache__/

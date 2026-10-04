@@ -1,0 +1,20 @@
+# Core
+requests>=2.31
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+python-dateutil>=2.8
+
+# Astronomy (used as fallback ephemeris if JPL Horizons is unreachable)
+astropy>=5.3
+
+# Plots / pretty tables
+matplotlib>=3.7
+tabulate>=0.9
+
+# Optional but handy later (uncomment when you start modelling)
+# torch>=2.1
+# utide>=0.3          # classical tidal harmonic analysis, good baseline vs PINN
+# astroquery>=0.4.7   # SIMBAD / Gaia / Horizons convenience wrappers
+# xarray>=2023.1      # for netCDF ocean/reanalysis data (Copernicus, HYCOM)
+# netCDF4>=1.6
