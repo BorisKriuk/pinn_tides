@@ -14,7 +14,7 @@
 | Author | Affiliation |
 |---|---|
 | Boris Kriuk | HKUST Department of Information Systems, Business Statistics and Operations Management, Hong Kong |
-| Tanisha K. | Trent University, Canada |
+| Tanisha Kiratsata | Trent University, Canada |
 
 ---
 
